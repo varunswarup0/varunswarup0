@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning [**data structures and algorithms**](https://github.com/varunswarup0/leetcode)
 
-- 👨‍💻 All of my projects are available at [https://varunswarup0.github.io/portfolio/](https://varunswarup0.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [**portfolio**](https://varunswarup0.github.io/portfolio/)
 
 - 💬 Ask me about **react, firebase and redux**
 
