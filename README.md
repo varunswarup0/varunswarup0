@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [**think piece**](https://think-piece-b7cba.firebaseapp.com/)
 
-- 🌱 I’m currently learning **data structures and algorithms**
+- 🌱 I’m currently learning [**data structures and algorithms**](https://github.com/varunswarup0/leetcode)
 
 - 👨‍💻 All of my projects are available at [https://varunswarup0.github.io/portfolio/](https://varunswarup0.github.io/portfolio/)
 
