@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **varunswarup0@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LdOQpOuVqAOXWqXlj3iOUqGfXVCPQoy1/view?usp=sharing](https://drive.google.com/file/d/1LdOQpOuVqAOXWqXlj3iOUqGfXVCPQoy1/view?usp=sharing)
+- 📄 Know about my experiences [**curriculum vitae**](https://drive.google.com/file/d/1LdOQpOuVqAOXWqXlj3iOUqGfXVCPQoy1/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
