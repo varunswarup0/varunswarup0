@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://codepen.io/varunswarup0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="varunswarup0" height="30" width="40" /></a>
 <a href="https://dev.to/varunswarup0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="varunswarup0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/varun-swarup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun-swarup" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/varunswarup0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varunswarup0" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11909056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11909056" height="30" width="40" /></a>
 <a href="https://codesandbox.com/varunswarup0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="varunswarup0" height="30" width="40" /></a>
 <a href="https://dribbble.com/varunswarup0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="varunswarup0" height="30" width="40" /></a>
