@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunswarup0&label=Profile%20views&color=0e75b6&style=flat" alt="varunswarup0" /> </p>
 
+<img width = "35%" align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/l2R06kO1jE5hNHub6/giphy.gif" />
 
 
 - 🔭 I’m currently working on [**think piece**](https://think-piece-b7cba.firebaseapp.com/)
