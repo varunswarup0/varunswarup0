@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning [**data structures and algorithms**](https://github.com/varunswarup0/leetcode)
 
-- 👨‍💻 All of my projects are available at [**personal website**](https://varunswarup.tech/)
+- 👨‍💻 All of my projects are available at [**portfolio**](https://varunswarup.tech/)
 
 - 💬 Ask me about **react, firebase and redux**
 
