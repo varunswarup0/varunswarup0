@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [**think piece**](https://think-piece-b7cba.firebaseapp.com/)
 
-- 🌱 I’m currently learning [**data structures and algorithms**](https://github.com/varunswarup0/leetcode)
+- 🌱 I’m currently learning [**data structures and algorithms**](https://www.hackerrank.com/varunswarup0)
 
 - 👨‍💻 All of my projects are available at [**portfolio**](https://varunswarup.tech/)
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **varunswarup0@gmail.com**
 
-- 📄 Know about my experiences [**curriculum vitae**](https://drive.google.com/file/d/1LdOQpOuVqAOXWqXlj3iOUqGfXVCPQoy1/view?usp=sharing)
+- 📄 Know about my experiences [**curriculum vitae**](https://drive.google.com/drive/folders/1aK7WjyOTuhrGiu1-eD1QVhZuO47rk-2y)
 
 - ⚡ Fun fact **I think I am funny**
 
