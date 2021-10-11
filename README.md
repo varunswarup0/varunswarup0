@@ -34,7 +34,7 @@
 <img src="https://raw.githubusercontent.com/varunswarup0/mock-ups/main/tweet-stream/tweetStream-mockup.png" />
 </p>
 
-<h3 align="left">Portfolio:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/varunswarup0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="varunswarup0" height="30" width="40" /></a>
 <a href="https://dev.to/varunswarup0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="varunswarup0" height="30" width="40" /></a>
